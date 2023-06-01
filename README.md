@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Analytics and Java**
 
-- 👯 I’m looking to collaborate on **I'm looking to collaborate on open source projects that make a positive impact.**
+- 👯 I’m looking to collaborate on ** open source projects that make a positive impact.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AtharvaCyber?tab=repositories](https://github.com/AtharvaCyber?tab=repositories)
 
