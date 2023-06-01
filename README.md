@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atharva Menkudle</h1>
 <h3 align="center">Passionate coder with a love for coding and problem-solving</h3>
-
+<img align = "center" alt = "Coding" width = "500" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvacyber&label=Profile%20views&color=0e75b6&style=flat" alt="atharvacyber" /> </p>
 
 - 🌱 I’m currently learning **Data Analytics and Java**
